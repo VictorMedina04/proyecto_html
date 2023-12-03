@@ -5,7 +5,7 @@
     flex: 1 1 100%;
     margin: 0 auto;
     display: flex;
-    margin-bottom: -29px;
+    margin-bottom: -30px;
 }
 
 #contenido main img{
@@ -13,6 +13,7 @@
     padding: 4px;
     margin-left: 15%;
     align-items:center;
+    width: 100%;
 }
 
 footer{
